@@ -1,6 +1,11 @@
 class ImageConstant {
   // Image folder path
   static String imagePath = 'assets/images';
+  static String imgTelevision = '$imagePath/img_television.svg';
+  static String imgArrowLeft = '$imagePath/img_arrow_left.svg';
+  static String imgEllipse6 = '$imagePath/img_ellipse_6.png';
+  static String imgIcons8Edit641 = '$imagePath/img_icons8_edit_64_1.png';
+  static String imgThumbsup = '$imagePath/img_thumbsup.svg';
 
   // iPhone 14 & 15 Pro Max - One images
   static String imgUnsplash3tll97hnjo =

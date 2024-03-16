@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:healthwyze/screens/bloodpressure/bloodpressure.dart';
 import 'package:healthwyze/screens/homescreen/homescreen.dart';
 import 'package:healthwyze/theme/theme_helper.dart';
 import 'package:healthwyze/utils/size_utils.dart';
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
           debugShowCheckedModeBanner: false,
           title: 'HealthWyze',
           theme: theme,
-          home: HomeScreen(),
+          home: BloodPressure(),
         );
       },
     );
