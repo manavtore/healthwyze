@@ -1,0 +1,25 @@
+class ImageConstant {
+  // Image folder path
+  static String imagePath = 'assets/images';
+
+  // iPhone 14 & 15 Pro Max - One images
+  static String imgUnsplash3tll97hnjo =
+      '$imagePath/img_unsplash_3tll_97hnjo.png';
+
+  static String imgGroup264 = '$imagePath/img_group_264.png';
+
+  static String imgTonometer = '$imagePath/img_tonometer.png';
+
+  static String imgHeartWithPulse = '$imagePath/img_heart_with_pulse.png';
+
+  static String imgUnsplash3tll97hnjo67x66 =
+      '$imagePath/img_unsplash_3tll_97hnjo_67x66.png';
+
+  static String imgSettings = '$imagePath/img_settings.svg';
+
+  static String imgGroup36 = '$imagePath/img_group_36.svg';
+
+  static String imgIconHomeSimple = '$imagePath/img_icon_home_simple.svg';
+
+  static String imageNotFound = 'assets/images/image_not_found.png';
+}
